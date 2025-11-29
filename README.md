@@ -1,4 +1,4 @@
-# phonepe
+# Phonepe
 
 # 📱 PhonePe Pulse | India's Digital Payment Dashboard
 
