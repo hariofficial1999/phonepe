@@ -236,7 +236,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Plotly for powerful visualizations
 - The open-source community
 
-## 📞 Contact
+
 
 For questions or support, please open an issue in the GitHub repository.
 
